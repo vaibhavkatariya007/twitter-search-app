@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/twitter-search-app/static/css/main.3493bdeb.chunk.css",
+    "main.js": "/twitter-search-app/static/js/main.3d95fef6.chunk.js",
+    "main.js.map": "/twitter-search-app/static/js/main.3d95fef6.chunk.js.map",
+    "runtime-main.js": "/twitter-search-app/static/js/runtime-main.8d089fc9.js",
+    "runtime-main.js.map": "/twitter-search-app/static/js/runtime-main.8d089fc9.js.map",
+    "static/css/2.951c421b.chunk.css": "/twitter-search-app/static/css/2.951c421b.chunk.css",
+    "static/js/2.c5469610.chunk.js": "/twitter-search-app/static/js/2.c5469610.chunk.js",
+    "static/js/2.c5469610.chunk.js.map": "/twitter-search-app/static/js/2.c5469610.chunk.js.map",
+    "static/js/3.83731c42.chunk.js": "/twitter-search-app/static/js/3.83731c42.chunk.js",
+    "static/js/3.83731c42.chunk.js.map": "/twitter-search-app/static/js/3.83731c42.chunk.js.map",
+    "index.html": "/twitter-search-app/index.html",
+    "precache-manifest.fbf1bd07d591303b65243346be734a07.js": "/twitter-search-app/precache-manifest.fbf1bd07d591303b65243346be734a07.js",
+    "service-worker.js": "/twitter-search-app/service-worker.js",
+    "static/css/2.951c421b.chunk.css.map": "/twitter-search-app/static/css/2.951c421b.chunk.css.map",
+    "static/css/main.3493bdeb.chunk.css.map": "/twitter-search-app/static/css/main.3493bdeb.chunk.css.map",
+    "static/js/2.c5469610.chunk.js.LICENSE.txt": "/twitter-search-app/static/js/2.c5469610.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d089fc9.js",
+    "static/css/2.951c421b.chunk.css",
+    "static/js/2.c5469610.chunk.js",
+    "static/css/main.3493bdeb.chunk.css",
+    "static/js/main.3d95fef6.chunk.js"
+  ]
+}
